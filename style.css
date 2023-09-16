@@ -1,0 +1,38 @@
+body {
+   
+    font-family: sans-serif;
+}
+header{
+    background-color:rgb(251, 255, 0);
+    padding:10px;
+    border-radius: 30px;
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+.h1 {
+    background-color: rgb(251, 255, 0);
+}
+h1 {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+header h1 {
+    text-align: center;
+    color: #FFF;
+}
+header {
+    background-color: rgb(235, 194, 11);
+    padding: 15px;
+    width: 1100px;
+}
+header img {
+    width: 300px;
+    height: 89px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    mix-blend-mode: darken;
+}
